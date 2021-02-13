@@ -1,7 +1,7 @@
 # Currílo em HTML
 
 ## Linguagens utilizadas 
-### HTML5 e CSS3 
+### HTML5, CSS3,  
 
 ## Framework utilisado
 ### Bootstrap
