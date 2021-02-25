@@ -1,4 +1,4 @@
-# Currílo em HTML
+# Currículo em HTML
 
 ## Linguagens utilizadas 
 ### HTML5, CSS3, JavaScript  
